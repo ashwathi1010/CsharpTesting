@@ -1,0 +1,5 @@
+C:\Users\ashwa\source\repos\DTexercise\obj\Debug\net5.0\DTexercise.csproj.AssemblyReference.cache
+C:\Users\ashwa\source\repos\DTexercise\obj\Debug\net5.0\DTexercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashwa\source\repos\DTexercise\obj\Debug\net5.0\DTexercise.AssemblyInfoInputs.cache
+C:\Users\ashwa\source\repos\DTexercise\obj\Debug\net5.0\DTexercise.AssemblyInfo.cs
+C:\Users\ashwa\source\repos\DTexercise\obj\Debug\net5.0\DTexercise.csproj.CoreCompileInputs.cache
