@@ -1,0 +1,14 @@
+C:\Users\ashwa\source\repos\datatypesTest\bin\Debug\netcoreapp3.1\datatypesTest.exe
+C:\Users\ashwa\source\repos\datatypesTest\bin\Debug\netcoreapp3.1\datatypesTest.deps.json
+C:\Users\ashwa\source\repos\datatypesTest\bin\Debug\netcoreapp3.1\datatypesTest.runtimeconfig.json
+C:\Users\ashwa\source\repos\datatypesTest\bin\Debug\netcoreapp3.1\datatypesTest.runtimeconfig.dev.json
+C:\Users\ashwa\source\repos\datatypesTest\bin\Debug\netcoreapp3.1\datatypesTest.dll
+C:\Users\ashwa\source\repos\datatypesTest\bin\Debug\netcoreapp3.1\datatypesTest.pdb
+C:\Users\ashwa\source\repos\datatypesTest\obj\Debug\netcoreapp3.1\datatypesTest.csproj.AssemblyReference.cache
+C:\Users\ashwa\source\repos\datatypesTest\obj\Debug\netcoreapp3.1\datatypesTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashwa\source\repos\datatypesTest\obj\Debug\netcoreapp3.1\datatypesTest.AssemblyInfoInputs.cache
+C:\Users\ashwa\source\repos\datatypesTest\obj\Debug\netcoreapp3.1\datatypesTest.AssemblyInfo.cs
+C:\Users\ashwa\source\repos\datatypesTest\obj\Debug\netcoreapp3.1\datatypesTest.csproj.CoreCompileInputs.cache
+C:\Users\ashwa\source\repos\datatypesTest\obj\Debug\netcoreapp3.1\datatypesTest.dll
+C:\Users\ashwa\source\repos\datatypesTest\obj\Debug\netcoreapp3.1\datatypesTest.pdb
+C:\Users\ashwa\source\repos\datatypesTest\obj\Debug\netcoreapp3.1\datatypesTest.genruntimeconfig.cache
